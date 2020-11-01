@@ -1,0 +1,381 @@
+,Round,Team 1,Team 2
+0,1,Burnley,Man Utd
+1,1,Man City,Aston Villa
+2,1,Fulham,Arsenal
+3,1,Crystal Palace,Southampton
+4,1,Liverpool,Leeds
+5,1,West Ham,Newcastle
+6,1,West Brom,Leicester
+7,1,Spurs,Everton
+8,1,Sheffield Utd,Wolves
+9,1,Brighton,Chelsea
+10,2,Everton,West Brom
+11,2,Leeds,Fulham
+12,2,Man Utd,Crystal Palace
+13,2,Arsenal,West Ham
+14,2,Southampton,Spurs
+15,2,Newcastle,Brighton
+16,2,Chelsea,Liverpool
+17,2,Leicester,Burnley
+18,2,Aston Villa,Sheffield Utd
+19,2,Wolves,Man City
+20,3,Brighton,Man Utd
+21,3,Crystal Palace,Everton
+22,3,West Brom,Chelsea
+23,3,Burnley,Southampton
+24,3,Sheffield Utd,Leeds
+25,3,Spurs,Newcastle
+26,3,Man City,Leicester
+27,3,West Ham,Wolves
+28,3,Fulham,Aston Villa
+29,3,Liverpool,Arsenal
+30,4,Chelsea,Crystal Palace
+31,4,Everton,Brighton
+32,4,Leeds,Man City
+33,4,Newcastle,Burnley
+34,4,Leicester,West Ham
+35,4,Southampton,West Brom
+36,4,Arsenal,Sheffield Utd
+37,4,Wolves,Fulham
+38,4,Man Utd,Spurs
+39,4,Aston Villa,Liverpool
+40,5,Everton,Liverpool
+41,5,Chelsea,Southampton
+42,5,Man City,Arsenal
+43,5,Newcastle,Man Utd
+44,5,Sheffield Utd,Fulham
+45,5,Crystal Palace,Brighton
+46,5,Spurs,West Ham
+47,5,Leicester,Aston Villa
+48,5,West Brom,Burnley
+49,5,Leeds,Wolves
+50,6,Aston Villa,Leeds
+51,6,West Ham,Man City
+52,6,Fulham,Crystal Palace
+53,6,Man Utd,Chelsea
+54,6,Liverpool,Sheffield Utd
+55,6,Southampton,Everton
+56,6,Wolves,Newcastle
+57,6,Arsenal,Leicester
+58,6,Brighton,West Brom
+59,6,Burnley,Spurs
+60,7,Wolves,Crystal Palace
+61,7,Sheffield Utd,Man City
+62,7,Burnley,Chelsea
+63,7,Liverpool,West Ham
+64,7,Aston Villa,Southampton
+65,7,Newcastle,Everton
+66,7,Man Utd,Arsenal
+67,7,Spurs,Brighton
+68,7,Fulham,West Brom
+69,7,Leeds,Leicester
+70,8,Arsenal,Aston Villa
+71,8,Brighton,Burnley
+72,8,Chelsea,Sheffield Utd
+73,8,Crystal Palace,Leeds
+74,8,Everton,Man Utd
+75,8,Leicester,Wolves
+76,8,Man City,Liverpool
+77,8,Southampton,Newcastle
+78,8,West Brom,Spurs
+79,8,West Ham,Fulham
+80,9,Aston Villa,Brighton
+81,9,Burnley,Crystal Palace
+82,9,Fulham,Everton
+83,9,Leeds,Arsenal
+84,9,Liverpool,Leicester
+85,9,Man Utd,West Brom
+86,9,Newcastle,Chelsea
+87,9,Sheffield Utd,West Ham
+88,9,Spurs,Man City
+89,9,Wolves,Southampton
+90,10,Arsenal,Wolves
+91,10,Brighton,Liverpool
+92,10,Chelsea,Spurs
+93,10,Crystal Palace,Newcastle
+94,10,Everton,Leeds
+95,10,Leicester,Fulham
+96,10,Man City,Burnley
+97,10,Southampton,Man Utd
+98,10,West Brom,Sheffield Utd
+99,10,West Ham,Aston Villa
+100,11,Aston Villa,Newcastle
+101,11,Brighton,Southampton
+102,11,Burnley,Everton
+103,11,Chelsea,Leeds
+104,11,Liverpool,Wolves
+105,11,Man City,Fulham
+106,11,Sheffield Utd,Leicester
+107,11,Spurs,Arsenal
+108,11,West Brom,Crystal Palace
+109,11,West Ham,Man Utd
+110,12,Arsenal,Burnley
+111,12,Crystal Palace,Spurs
+112,12,Everton,Chelsea
+113,12,Fulham,Liverpool
+114,12,Leeds,West Ham
+115,12,Leicester,Brighton
+116,12,Man Utd,Man City
+117,12,Newcastle,West Brom
+118,12,Southampton,Sheffield Utd
+119,12,Wolves,Aston Villa
+120,13,Arsenal,Southampton
+121,13,Aston Villa,Burnley
+122,13,Fulham,Brighton
+123,13,Leeds,Newcastle
+124,13,Leicester,Everton
+125,13,Sheffield Utd,Man Utd
+126,13,West Ham,Crystal Palace
+127,13,Wolves,Chelsea
+128,13,Liverpool,Spurs
+129,13,Man City,West Brom
+130,14,Brighton,Sheffield Utd
+131,14,Burnley,Wolves
+132,14,Chelsea,West Ham
+133,14,Crystal Palace,Liverpool
+134,14,Everton,Arsenal
+135,14,Man Utd,Leeds
+136,14,Newcastle,Fulham
+137,14,Southampton,Man City
+138,14,Spurs,Leicester
+139,14,West Brom,Aston Villa
+140,15,Arsenal,Chelsea
+141,15,Aston Villa,Crystal Palace
+142,15,Fulham,Southampton
+143,15,Leeds,Burnley
+144,15,Leicester,Man Utd
+145,15,Liverpool,West Brom
+146,15,Man City,Newcastle
+147,15,Sheffield Utd,Everton
+148,15,West Ham,Brighton
+149,15,Wolves,Spurs
+150,16,Brighton,Arsenal
+151,16,Burnley,Sheffield Utd
+152,16,Chelsea,Aston Villa
+153,16,Crystal Palace,Leicester
+154,16,Everton,Man City
+155,16,Man Utd,Wolves
+156,16,Newcastle,Liverpool
+157,16,Southampton,West Ham
+158,16,Spurs,Fulham
+159,16,West Brom,Leeds
+160,17,Brighton,Wolves
+161,17,Burnley,Fulham
+162,17,Chelsea,Man City
+163,17,Crystal Palace,Sheffield Utd
+164,17,Everton,West Ham
+165,17,Man Utd,Aston Villa
+166,17,Newcastle,Leicester
+167,17,Southampton,Liverpool
+168,17,Spurs,Leeds
+169,17,West Brom,Arsenal
+170,18,Arsenal,Crystal Palace
+171,18,Aston Villa,Spurs
+172,18,Fulham,Man Utd
+173,18,Leeds,Southampton
+174,18,Leicester,Chelsea
+175,18,Sheffield Utd,Newcastle
+176,18,West Ham,West Brom
+177,18,Wolves,Everton
+178,18,Liverpool,Burnley
+179,18,Man City,Brighton
+180,19,Arsenal,Newcastle
+181,19,Aston Villa,Everton
+182,19,Fulham,Chelsea
+183,19,Leeds,Brighton
+184,19,Leicester,Southampton
+185,19,Liverpool,Man Utd
+186,19,Man City,Crystal Palace
+187,19,Sheffield Utd,Spurs
+188,19,West Ham,Burnley
+189,19,Wolves,West Brom
+190,20,Brighton,Fulham
+191,20,Burnley,Aston Villa
+192,20,Everton,Leicester
+193,20,Man Utd,Sheffield Utd
+194,20,West Brom,Man City
+195,20,Chelsea,Wolves
+196,20,Newcastle,Leeds
+197,20,Southampton,Arsenal
+198,20,Spurs,Liverpool
+199,20,Crystal Palace,West Ham
+200,21,Arsenal,Man Utd
+201,21,Brighton,Spurs
+202,21,Chelsea,Burnley
+203,21,Crystal Palace,Wolves
+204,21,Everton,Newcastle
+205,21,Leicester,Leeds
+206,21,Man City,Sheffield Utd
+207,21,Southampton,Aston Villa
+208,21,West Brom,Fulham
+209,21,West Ham,Liverpool
+210,22,Aston Villa,West Ham
+211,22,Burnley,Man City
+212,22,Fulham,Leicester
+213,22,Leeds,Everton
+214,22,Sheffield Utd,West Brom
+215,22,Wolves,Arsenal
+216,22,Man Utd,Southampton
+217,22,Newcastle,Crystal Palace
+218,22,Spurs,Chelsea
+219,22,Liverpool,Brighton
+220,23,Aston Villa,Arsenal
+221,23,Burnley,Brighton
+222,23,Fulham,West Ham
+223,23,Leeds,Crystal Palace
+224,23,Liverpool,Man City
+225,23,Man Utd,Everton
+226,23,Newcastle,Southampton
+227,23,Sheffield Utd,Chelsea
+228,23,Spurs,West Brom
+229,23,Wolves,Leicester
+230,24,Arsenal,Leeds
+231,24,Brighton,Aston Villa
+232,24,Chelsea,Newcastle
+233,24,Crystal Palace,Burnley
+234,24,Everton,Fulham
+235,24,Leicester,Liverpool
+236,24,Man City,Spurs
+237,24,Southampton,Wolves
+238,24,West Brom,Man Utd
+239,24,West Ham,Sheffield Utd
+240,25,Arsenal,Man City
+241,25,Aston Villa,Leicester
+242,25,Brighton,Crystal Palace
+243,25,Burnley,West Brom
+244,25,Fulham,Sheffield Utd
+245,25,Liverpool,Everton
+246,25,Man Utd,Newcastle
+247,25,Southampton,Chelsea
+248,25,West Ham,Spurs
+249,25,Wolves,Leeds
+250,26,Chelsea,Man Utd
+251,26,Crystal Palace,Fulham
+252,26,Everton,Southampton
+253,26,Leeds,Aston Villa
+254,26,Leicester,Arsenal
+255,26,Man City,West Ham
+256,26,Newcastle,Wolves
+257,26,Sheffield Utd,Liverpool
+258,26,Spurs,Burnley
+259,26,West Brom,Brighton
+260,27,Aston Villa,Wolves
+261,27,Brighton,Leicester
+262,27,Burnley,Arsenal
+263,27,Chelsea,Everton
+264,27,Liverpool,Fulham
+265,27,Man City,Man Utd
+266,27,Sheffield Utd,Southampton
+267,27,Spurs,Crystal Palace
+268,27,West Brom,Newcastle
+269,27,West Ham,Leeds
+270,28,Arsenal,Spurs
+271,28,Crystal Palace,West Brom
+272,28,Everton,Burnley
+273,28,Fulham,Man City
+274,28,Leeds,Chelsea
+275,28,Leicester,Sheffield Utd
+276,28,Man Utd,West Ham
+277,28,Newcastle,Aston Villa
+278,28,Southampton,Brighton
+279,28,Wolves,Liverpool
+280,29,Brighton,Newcastle
+281,29,Burnley,Leicester
+282,29,Crystal Palace,Man Utd
+283,29,Fulham,Leeds
+284,29,Liverpool,Chelsea
+285,29,Man City,Wolves
+286,29,Sheffield Utd,Aston Villa
+287,29,Spurs,Southampton
+288,29,West Brom,Everton
+289,29,West Ham,Arsenal
+290,30,Arsenal,Liverpool
+291,30,Aston Villa,Fulham
+292,30,Chelsea,West Brom
+293,30,Everton,Crystal Palace
+294,30,Leeds,Sheffield Utd
+295,30,Leicester,Man City
+296,30,Man Utd,Brighton
+297,30,Newcastle,Spurs
+298,30,Southampton,Burnley
+299,30,Wolves,West Ham
+300,31,Brighton,Everton
+301,31,Burnley,Newcastle
+302,31,Crystal Palace,Chelsea
+303,31,Fulham,Wolves
+304,31,Liverpool,Aston Villa
+305,31,Man City,Leeds
+306,31,Sheffield Utd,Arsenal
+307,31,Spurs,Man Utd
+308,31,West Brom,Southampton
+309,31,West Ham,Leicester
+310,32,Arsenal,Fulham
+311,32,Aston Villa,Man City
+312,32,Chelsea,Brighton
+313,32,Everton,Spurs
+314,32,Leeds,Liverpool
+315,32,Leicester,West Brom
+316,32,Man Utd,Burnley
+317,32,Newcastle,West Ham
+318,32,Southampton,Crystal Palace
+319,32,Wolves,Sheffield Utd
+320,33,Arsenal,Everton
+321,33,Aston Villa,West Brom
+322,33,Fulham,Spurs
+323,33,Leeds,Man Utd
+324,33,Leicester,Crystal Palace
+325,33,Liverpool,Newcastle
+326,33,Man City,Southampton
+327,33,Sheffield Utd,Brighton
+328,33,West Ham,Chelsea
+329,33,Wolves,Burnley
+330,34,Brighton,Leeds
+331,34,Burnley,West Ham
+332,34,Chelsea,Fulham
+333,34,Crystal Palace,Man City
+334,34,Everton,Aston Villa
+335,34,Man Utd,Liverpool
+336,34,Newcastle,Arsenal
+337,34,Southampton,Leicester
+338,34,Spurs,Sheffield Utd
+339,34,West Brom,Wolves
+340,35,Arsenal,West Brom
+341,35,Aston Villa,Man Utd
+342,35,Fulham,Burnley
+343,35,Leeds,Spurs
+344,35,Leicester,Newcastle
+345,35,Liverpool,Southampton
+346,35,Man City,Chelsea
+347,35,Sheffield Utd,Crystal Palace
+348,35,West Ham,Everton
+349,35,Wolves,Brighton
+350,36,Brighton,West Ham
+351,36,Burnley,Leeds
+352,36,Everton,Sheffield Utd
+353,36,Man Utd,Leicester
+354,36,West Brom,Liverpool
+355,36,Chelsea,Arsenal
+356,36,Newcastle,Man City
+357,36,Southampton,Fulham
+358,36,Spurs,Wolves
+359,36,Crystal Palace,Aston Villa
+360,37,Brighton,Man City
+361,37,Burnley,Liverpool
+362,37,Chelsea,Leicester
+363,37,Crystal Palace,Arsenal
+364,37,Everton,Wolves
+365,37,Man Utd,Fulham
+366,37,Newcastle,Sheffield Utd
+367,37,Southampton,Leeds
+368,37,Spurs,Aston Villa
+369,37,West Brom,West Ham
+370,38,Arsenal,Brighton
+371,38,Aston Villa,Chelsea
+372,38,Fulham,Newcastle
+373,38,Leeds,West Brom
+374,38,Leicester,Spurs
+375,38,Liverpool,Crystal Palace
+376,38,Man City,Everton
+377,38,Sheffield Utd,Burnley
+378,38,West Ham,Southampton
+379,38,Wolves,Man Utd
